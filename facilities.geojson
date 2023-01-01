@@ -1,0 +1,6472 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77684, 
+          -0.07848
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 2.0, 
+        "Confirme_2": 11.0, 
+        "Confirme_1": 9.0, 
+        "Malaria_in": 0.0, 
+        "FID": 1, 
+        "Y": -0.07848, 
+        "X": 34.77684, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Beyond Zero Mobile Medical Clinic (Kisumu)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78419, 
+          -0.07952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 171.0, 
+        "Confirme_2": 348.0, 
+        "Confirme_1": 149.0, 
+        "Malaria_in": 28.0, 
+        "FID": 2, 
+        "Y": -0.07952, 
+        "X": 34.78419, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Carwash Community Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76653, 
+          -0.09541
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 3, 
+        "Y": -0.09541, 
+        "X": 34.76653, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Central Clinic (Kisumu East)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77684, 
+          -0.07865
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 40.0, 
+        "Confirme_2": 126.0, 
+        "Confirme_1": 86.0, 
+        "Malaria_in": 0.0, 
+        "FID": 4, 
+        "Y": -0.07865, 
+        "X": 34.77684, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Christella Care Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77747, 
+          -0.07658
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 21.0, 
+        "Confirme_2": 80.0, 
+        "Confirme_1": 57.0, 
+        "Malaria_in": 2.0, 
+        "FID": 5, 
+        "Y": -0.07658, 
+        "X": 34.77747, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Danid Care Services"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79525, 
+          -0.07729
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 45.0, 
+        "Confirme_2": 306.0, 
+        "Confirme_1": 258.0, 
+        "Malaria_in": 3.0, 
+        "FID": 6, 
+        "Y": -0.07729, 
+        "X": 34.79525, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Dawamed Medical Clinic(Kondele)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78536, 
+          -0.07929
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 7, 
+        "Y": -0.07929, 
+        "X": 34.78536, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Gedian Family Healthcare"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77789, 
+          -0.10331
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 8, 
+        "Y": -0.10331, 
+        "X": 34.77789, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Gesoko Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77177, 
+          -0.08884
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 881.0, 
+        "Confirme_2": 2394.0, 
+        "Confirme_1": 1513.0, 
+        "Malaria_in": 0.0, 
+        "FID": 9, 
+        "Y": -0.08884, 
+        "X": 34.77177, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Jaramogi Oginga Odinga Teaching & Referral Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75078, 
+          -0.0982
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 10, 
+        "Y": -0.0982, 
+        "X": 34.75078, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Keeping alive Society Hope"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77197, 
+          -0.0853
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 203.0, 
+        "Confirme_2": 444.0, 
+        "Confirme_1": 241.0, 
+        "Malaria_in": 0.0, 
+        "FID": 11, 
+        "Y": -0.0853, 
+        "X": 34.77197, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Kisumu Comprehensive Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77238, 
+          -0.08746
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 12, 
+        "Y": -0.08746, 
+        "X": 34.77238, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Kisumu Regional Blood Transfusion Center"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77435, 
+          -0.08749
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 13, 
+        "Y": -0.08749, 
+        "X": 34.77435, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Kmtc Clinic-Kisumu Campus"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77946, 
+          -0.08476
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 14, 
+        "Y": -0.08476, 
+        "X": 34.77946, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / LVCT Health Manyatta Dice"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78235, 
+          -0.10167
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 15, 
+        "Y": -0.10167, 
+        "X": 34.78235, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Mtc Clinic (Kisumu)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77634, 
+          -0.08312
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 540.0, 
+        "Confirme_2": 5036.0, 
+        "Confirme_1": 4238.0, 
+        "Malaria_in": 258.0, 
+        "FID": 16, 
+        "Y": -0.08312, 
+        "X": 34.77634, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Nightingale Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77681, 
+          -0.07846
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 17, 
+        "Y": -0.07846, 
+        "X": 34.77681, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Nyaweri Deaf VCT"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76475, 
+          -0.09038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 27.0, 
+        "Confirme_2": 82.0, 
+        "Confirme_1": 53.0, 
+        "Malaria_in": 2.0, 
+        "FID": 18, 
+        "Y": -0.09038, 
+        "X": 34.76475, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Kondele Ward / Stops Medical Clinic Kenya Ltd"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75409, 
+          -0.0941
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 15.0, 
+        "Confirme_2": 80.0, 
+        "Confirme_1": 63.0, 
+        "Malaria_in": 2.0, 
+        "FID": 19, 
+        "Y": -0.0941, 
+        "X": 34.75409, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Jobefar Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75334, 
+          -0.10433
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 20, 
+        "Y": -0.10433, 
+        "X": 34.75334, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / AAR Health care-Kisumu"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75679, 
+          -0.11481
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 257.0, 
+        "Confirme_2": 1639.0, 
+        "Confirme_1": 1376.0, 
+        "Malaria_in": 6.0, 
+        "FID": 21, 
+        "Y": -0.11481, 
+        "X": 34.75679, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Africa Inuka Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75337, 
+          -0.10436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 22, 
+        "Y": -0.10436, 
+        "X": 34.75337, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Africare Kisumu MEDANTA"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75867, 
+          -0.0965
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 124.0, 
+        "Confirme_2": 1373.0, 
+        "Confirme_1": 1245.0, 
+        "Malaria_in": 4.0, 
+        "FID": 23, 
+        "Y": -0.0965, 
+        "X": 34.75867, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Aga Khan Hospital (Kisumu)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75344, 
+          -0.10439
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 24, 
+        "Y": -0.10439, 
+        "X": 34.75344, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Avenue Health Care Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75477, 
+          -0.11308
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 25.0, 
+        "Confirme_2": 258.0, 
+        "Confirme_1": 204.0, 
+        "Malaria_in": 29.0, 
+        "FID": 25, 
+        "Y": -0.11308, 
+        "X": 34.75477, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Bliss GVS Health Care (Mega plaza)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75327, 
+          -0.10434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 462.0, 
+        "Confirme_2": 1929.0, 
+        "Confirme_1": 1458.0, 
+        "Malaria_in": 9.0, 
+        "FID": 26, 
+        "Y": -0.10434, 
+        "X": 34.75327, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Bliss Gvs Healthcare (Al-Imran Plaza)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75476, 
+          -0.11305
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 65.0, 
+        "Confirme_2": 252.0, 
+        "Confirme_1": 173.0, 
+        "Malaria_in": 14.0, 
+        "FID": 27, 
+        "Y": -0.11305, 
+        "X": 34.75476, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Family Health Options Kenya (FHOK) Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75474, 
+          -0.11322
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 28, 
+        "Y": -0.11322, 
+        "X": 34.75474, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Guru Nanak Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75679, 
+          -0.11461
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 956.0, 
+        "Confirme_2": 3105.0, 
+        "Confirme_1": 2072.0, 
+        "Malaria_in": 77.0, 
+        "FID": 29, 
+        "Y": -0.11461, 
+        "X": 34.75679, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Inuka Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76419, 
+          -0.09472
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 94.0, 
+        "Confirme_2": 644.0, 
+        "Confirme_1": 550.0, 
+        "Malaria_in": 0.0, 
+        "FID": 30, 
+        "Y": -0.09472, 
+        "X": 34.76419, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Jalaram Nursing Home"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75555, 
+          -0.10134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 350.0, 
+        "Confirme_2": 1488.0, 
+        "Confirme_1": 1135.0, 
+        "Malaria_in": 3.0, 
+        "FID": 31, 
+        "Y": -0.10134, 
+        "X": 34.75555, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Kisumu County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75476, 
+          -0.113
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 1064.0, 
+        "Confirme_2": 3698.0, 
+        "Confirme_1": 2569.0, 
+        "Malaria_in": 65.0, 
+        "FID": 32, 
+        "Y": -0.113, 
+        "X": 34.75476, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Kisumu Police Line Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7545, 
+          -0.10465
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 33, 
+        "Y": -0.10465, 
+        "X": 34.7545, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Liverpool VCT (Kisumu East)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7697, 
+          -0.08438
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 34, 
+        "Y": -0.08438, 
+        "X": 34.7697, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Maaygo Railways"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75441, 
+          -0.10158
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 3.0, 
+        "Confirme_2": 197.0, 
+        "Confirme_1": 194.0, 
+        "Malaria_in": 0.0, 
+        "FID": 35, 
+        "Y": -0.10158, 
+        "X": 34.75441, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Masala Healthcare Services Ltd"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.5974, 
+          -0.00623
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 27.0, 
+        "Confirme_2": 236.0, 
+        "Confirme_1": 206.0, 
+        "Malaria_in": 3.0, 
+        "FID": 36, 
+        "Y": -0.00623, 
+        "X": 34.5974, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Maseno University AIDS Control Unit (Kisumu Town Campus)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75713, 
+          -0.06251
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 37, 
+        "Y": -0.06251, 
+        "X": 34.75713, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Meridian Medical Centre (Kisumu)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75306, 
+          -0.12158
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 2.0, 
+        "Confirme_2": 36.0, 
+        "Confirme_1": 31.0, 
+        "Malaria_in": 3.0, 
+        "FID": 38, 
+        "Y": -0.12158, 
+        "X": 34.75306, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Milimani Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75304, 
+          -0.10113
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 39, 
+        "Y": -0.10113, 
+        "X": 34.75304, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / MV Patel Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75547, 
+          -0.1076
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 722.0, 
+        "Confirme_2": 1612.0, 
+        "Confirme_1": 887.0, 
+        "Malaria_in": 3.0, 
+        "FID": 40, 
+        "Y": -0.1076, 
+        "X": 34.75547, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Nightingale Medical Centre-Milimani"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.74887, 
+          -0.10368
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 72.0, 
+        "Confirme_2": 471.0, 
+        "Confirme_1": 395.0, 
+        "Malaria_in": 4.0, 
+        "FID": 41, 
+        "Y": -0.10368, 
+        "X": 34.74887, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Railways Dispensary (Kisumu)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76178, 
+          -0.10609
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 21.0, 
+        "Confirme_2": 111.0, 
+        "Confirme_1": 90.0, 
+        "Malaria_in": 0.0, 
+        "FID": 42, 
+        "Y": -0.10609, 
+        "X": 34.76178, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / St Luke's Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75776, 
+          -0.10721
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 43, 
+        "Y": -0.10721, 
+        "X": 34.75776, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Town Hall Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75474, 
+          -0.11316
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 44, 
+        "Y": -0.11316, 
+        "X": 34.75474, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Tumaini Dice Dispensary (Kisumu)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76616, 
+          -0.08977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 45, 
+        "Y": -0.08977, 
+        "X": 34.76616, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Tuungane Youth Transition Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75738, 
+          -0.10866
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 1.0, 
+        "Confirme_2": 23.0, 
+        "Confirme_1": 17.0, 
+        "Malaria_in": 5.0, 
+        "FID": 46, 
+        "Y": -0.10866, 
+        "X": 34.75738, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Unam Medical Centre Limited"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75201, 
+          -0.11121
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 47, 
+        "Y": -0.11121, 
+        "X": 34.75201, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Market Milimani Ward / Victoria Hospital Kisumu"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78166, 
+          -0.08008
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 222.0, 
+        "Confirme_2": 1017.0, 
+        "Confirme_1": 773.0, 
+        "Malaria_in": 22.0, 
+        "FID": 48, 
+        "Y": -0.08008, 
+        "X": 34.78166, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Migosi Ward / Migosi Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.73677, 
+          -0.14093
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 136.0, 
+        "Confirme_2": 663.0, 
+        "Confirme_1": 526.0, 
+        "Malaria_in": 1.0, 
+        "FID": 49, 
+        "Y": -0.14093, 
+        "X": 34.73677, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Nyalenda B Ward / Dunga GOK Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.73942, 
+          -0.14004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 168.0, 
+        "Confirme_2": 826.0, 
+        "Confirme_1": 649.0, 
+        "Malaria_in": 9.0, 
+        "FID": 50, 
+        "Y": -0.14004, 
+        "X": 34.73942, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Nyalenda B Ward / Dunga Nursing Home"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75057, 
+          -0.12738
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 12.0, 
+        "Confirme_2": 40.0, 
+        "Confirme_1": 27.0, 
+        "Malaria_in": 1.0, 
+        "FID": 51, 
+        "Y": -0.12738, 
+        "X": 34.75057, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Nyalenda B Ward / Gods Will Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75477, 
+          -0.11308
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 164.0, 
+        "Confirme_2": 1775.0, 
+        "Confirme_1": 1605.0, 
+        "Malaria_in": 6.0, 
+        "FID": 52, 
+        "Y": -0.11308, 
+        "X": 34.75477, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Nyalenda B Ward / Hope for Widows & Children Foundation Nursing Home"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76105, 
+          -0.11701
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 39.0, 
+        "Confirme_2": 252.0, 
+        "Confirme_1": 213.0, 
+        "Malaria_in": 0.0, 
+        "FID": 53, 
+        "Y": -0.11701, 
+        "X": 34.76105, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Nyalenda B Ward / Interfelk Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7571, 
+          -0.12758
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 54, 
+        "Y": -0.12758, 
+        "X": 34.7571, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Nyalenda B Ward / Maclyn Healthcare Services and Pharma"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75217, 
+          -0.12282
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 107.0, 
+        "Confirme_2": 624.0, 
+        "Confirme_1": 513.0, 
+        "Malaria_in": 4.0, 
+        "FID": 55, 
+        "Y": -0.12282, 
+        "X": 34.75217, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Nyalenda B Ward / Nyalenda Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75781, 
+          -0.11898
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 323.0, 
+        "Confirme_2": 685.0, 
+        "Confirme_1": 358.0, 
+        "Malaria_in": 4.0, 
+        "FID": 56, 
+        "Y": -0.11898, 
+        "X": 34.75781, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Nyalenda B Ward / Pand Pieri Community Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75476, 
+          -0.12057
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 13.0, 
+        "Confirme_2": 199.0, 
+        "Confirme_1": 168.0, 
+        "Malaria_in": 18.0, 
+        "FID": 57, 
+        "Y": -0.12057, 
+        "X": 34.75476, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Nyalenda B Ward / St Jones and Ring Road Health Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76012, 
+          -0.09538
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 167.0, 
+        "Confirme_2": 1038.0, 
+        "Confirme_1": 868.0, 
+        "Malaria_in": 3.0, 
+        "FID": 58, 
+        "Y": -0.09538, 
+        "X": 34.76012, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Administration Police Dispensary (Kisumu)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76587, 
+          -0.08594
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 59, 
+        "Y": -0.08594, 
+        "X": 34.76587, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Anza Mapema Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76784, 
+          -0.09088
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 60, 
+        "Y": -0.09088, 
+        "X": 34.76784, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Avenue Hospital Kisumu"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.6967, 
+          -0.06887
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 7.0, 
+        "Confirme_2": 18.0, 
+        "Confirme_1": 10.0, 
+        "Malaria_in": 1.0, 
+        "FID": 61, 
+        "Y": -0.06887, 
+        "X": 34.6967, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Impact Healthcare Services"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76581, 
+          -0.08375
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 154.0, 
+        "Confirme_2": 652.0, 
+        "Confirme_1": 496.0, 
+        "Malaria_in": 2.0, 
+        "FID": 62, 
+        "Y": -0.08375, 
+        "X": 34.76581, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / K-Met Corkran Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76621, 
+          -0.09255
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 63, 
+        "Y": -0.09255, 
+        "X": 34.76621, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Kannika International LTD Hospital(Kisumu)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75409, 
+          -0.06786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 14.0, 
+        "Confirme_2": 68.0, 
+        "Confirme_1": 54.0, 
+        "Malaria_in": 0.0, 
+        "FID": 64, 
+        "Y": -0.06786, 
+        "X": 34.75409, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Kanyakwar Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7678, 
+          -0.09153
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 12.0, 
+        "Confirme_2": 101.0, 
+        "Confirme_1": 81.0, 
+        "Malaria_in": 8.0, 
+        "FID": 65, 
+        "Y": -0.09153, 
+        "X": 34.7678, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Marie Stopes Nursing Home (Kisumu)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75134, 
+          -0.10105
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 16.0, 
+        "Confirme_1": 16.0, 
+        "Malaria_in": 0.0, 
+        "FID": 66, 
+        "Y": -0.10105, 
+        "X": 34.75134, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Medileads Laboratories &Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75798, 
+          -0.08785
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 67, 
+        "Y": -0.08785, 
+        "X": 34.75798, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Mosque Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77126, 
+          -0.07954
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 132.0, 
+        "Confirme_2": 340.0, 
+        "Confirme_1": 205.0, 
+        "Malaria_in": 3.0, 
+        "FID": 68, 
+        "Y": -0.07954, 
+        "X": 34.77126, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Nyawita Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77031, 
+          -0.08744
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 69, 
+        "Y": -0.08744, 
+        "X": 34.77031, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Oasis Doctors Plaza-Tom Mboya Estate"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76961, 
+          -0.07923
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 62.0, 
+        "Confirme_2": 218.0, 
+        "Confirme_1": 150.0, 
+        "Malaria_in": 6.0, 
+        "FID": 70, 
+        "Y": -0.07923, 
+        "X": 34.76961, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Obunga Dispensary-Kisumu"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76302, 
+          -0.08054
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 136.0, 
+        "Confirme_2": 599.0, 
+        "Confirme_1": 442.0, 
+        "Malaria_in": 21.0, 
+        "FID": 71, 
+        "Y": -0.08054, 
+        "X": 34.76302, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Obunga Family Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75042, 
+          -0.10041
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 126.0, 
+        "Confirme_2": 734.0, 
+        "Confirme_1": 594.0, 
+        "Malaria_in": 14.0, 
+        "FID": 72, 
+        "Y": -0.10041, 
+        "X": 34.75042, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / Sayyid Aysha Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75448, 
+          -0.10188
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 73, 
+        "Y": -0.10188, 
+        "X": 34.75448, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / St Jude's Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7595, 
+          -0.09031
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 14.0, 
+        "Confirme_2": 89.0, 
+        "Confirme_1": 75.0, 
+        "Malaria_in": 0.0, 
+        "FID": 74, 
+        "Y": -0.09031, 
+        "X": 34.7595, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / St Lydia Okore Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7662, 
+          -0.09172
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 11.0, 
+        "Confirme_2": 121.0, 
+        "Confirme_1": 110.0, 
+        "Malaria_in": 0.0, 
+        "FID": 75, 
+        "Y": -0.09172, 
+        "X": 34.7662, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / St Monica Hospital (Town Clinic)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76782, 
+          -0.09156
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 112.0, 
+        "Confirme_2": 407.0, 
+        "Confirme_1": 295.0, 
+        "Malaria_in": 0.0, 
+        "FID": 76, 
+        "Y": -0.09156, 
+        "X": 34.76782, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Railways Ward / St Vincent Clinic (Kisumu East)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7693, 
+          -0.09709
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 77, 
+        "Y": -0.09709, 
+        "X": 34.7693, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Shauri Moyo Kaloleni Ward / Elim Family Community Care"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76571, 
+          -0.09766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 34.0, 
+        "Confirme_2": 75.0, 
+        "Confirme_1": 35.0, 
+        "Malaria_in": 6.0, 
+        "FID": 78, 
+        "Y": -0.09766, 
+        "X": 34.76571, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Shauri Moyo Kaloleni Ward / Joy Paediatric Medical Center"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76553, 
+          -0.09481
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 1.0, 
+        "Confirme_2": 1.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 79, 
+        "Y": -0.09481, 
+        "X": 34.76553, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Shauri Moyo Kaloleni Ward / Kisumu Heart Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.74005, 
+          -0.00101
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 13.0, 
+        "Confirme_2": 151.0, 
+        "Confirme_1": 133.0, 
+        "Malaria_in": 5.0, 
+        "FID": 80, 
+        "Y": -0.00101, 
+        "X": 34.74005, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Shauri Moyo Kaloleni Ward / Little Balm Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76586, 
+          -0.09933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 179.0, 
+        "Confirme_2": 1182.0, 
+        "Confirme_1": 927.0, 
+        "Malaria_in": 76.0, 
+        "FID": 81, 
+        "Y": -0.09933, 
+        "X": 34.76586, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Shauri Moyo Kaloleni Ward / Lumumba Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76971, 
+          -0.08417
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 82, 
+        "Y": -0.08417, 
+        "X": 34.76971, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Shauri Moyo Kaloleni Ward / Maaygo Dice"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76555, 
+          -0.09775
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 13.0, 
+        "Confirme_2": 37.0, 
+        "Confirme_1": 23.0, 
+        "Malaria_in": 1.0, 
+        "FID": 83, 
+        "Y": -0.09775, 
+        "X": 34.76555, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Shauri Moyo Kaloleni Ward / Medafya Healthcare Limited"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76451, 
+          -0.09675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 770.0, 
+        "Confirme_2": 4312.0, 
+        "Confirme_1": 3478.0, 
+        "Malaria_in": 64.0, 
+        "FID": 84, 
+        "Y": -0.09675, 
+        "X": 34.76451, 
+        "Data": "Kisumu County / Kisumu Central Sub County / Shauri Moyo Kaloleni Ward / Star Maternity & Nursing Home"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78498, 
+          -0.05774
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 85, 
+        "Y": -0.05774, 
+        "X": 34.78498, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Bluepeak Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7841, 
+          -0.05863
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 86, 
+        "Y": -0.05863, 
+        "X": 34.7841, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Careplus Medical services"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.80179, 
+          -0.05524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 203.0, 
+        "Confirme_2": 1202.0, 
+        "Confirme_1": 784.0, 
+        "Malaria_in": 215.0, 
+        "FID": 87, 
+        "Y": -0.05524, 
+        "X": 34.80179, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Disciples of Mercy Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79058, 
+          -0.02735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 2158.0, 
+        "Confirme_2": 6396.0, 
+        "Confirme_1": 4140.0, 
+        "Malaria_in": 98.0, 
+        "FID": 88, 
+        "Y": -0.02735, 
+        "X": 34.79058, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Gita Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.81552, 
+          0.00985
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 268.0, 
+        "Confirme_2": 1444.0, 
+        "Confirme_1": 1170.0, 
+        "Malaria_in": 6.0, 
+        "FID": 89, 
+        "Y": 0.00985, 
+        "X": 34.81552, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Got Nyabondo Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.81563, 
+          -0.06173
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 136.0, 
+        "Confirme_2": 1533.0, 
+        "Confirme_1": 1393.0, 
+        "Malaria_in": 4.0, 
+        "FID": 90, 
+        "Y": -0.06173, 
+        "X": 34.81563, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Kibos Sugar Research Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75516, 
+          -0.03585
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 27.0, 
+        "Confirme_2": 269.0, 
+        "Confirme_1": 226.0, 
+        "Malaria_in": 16.0, 
+        "FID": 91, 
+        "Y": -0.03585, 
+        "X": 34.75516, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Kisumu Specialist Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7796, 
+          -0.04195
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 186.0, 
+        "Confirme_2": 1243.0, 
+        "Confirme_1": 1051.0, 
+        "Malaria_in": 6.0, 
+        "FID": 92, 
+        "Y": -0.04195, 
+        "X": 34.7796, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Kotunga Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77974, 
+          -0.04235
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 93, 
+        "Y": -0.04235, 
+        "X": 34.77974, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Mamboleo Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76302, 
+          -0.03108
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 127.0, 
+        "Confirme_2": 659.0, 
+        "Confirme_1": 530.0, 
+        "Malaria_in": 2.0, 
+        "FID": 94, 
+        "Y": -0.03108, 
+        "X": 34.76302, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Ongadi Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79475, 
+          -0.05218
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 482.0, 
+        "Confirme_2": 2655.0, 
+        "Confirme_1": 2165.0, 
+        "Malaria_in": 8.0, 
+        "FID": 95, 
+        "Y": -0.05218, 
+        "X": 34.79475, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Simba Opepo Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78481, 
+          -0.05844
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 1922.0, 
+        "Confirme_2": 13469.0, 
+        "Confirme_1": 11519.0, 
+        "Malaria_in": 28.0, 
+        "FID": 96, 
+        "Y": -0.05844, 
+        "X": 34.78481, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / St Consolata Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77082, 
+          -0.04478
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 185.0, 
+        "Confirme_2": 1372.0, 
+        "Confirme_1": 1080.0, 
+        "Malaria_in": 107.0, 
+        "FID": 97, 
+        "Y": -0.04478, 
+        "X": 34.77082, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / St Monica Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77994, 
+          -0.04277
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 98, 
+        "Y": -0.04277, 
+        "X": 34.77994, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kajulu Ward / Unity Point Health Care"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.80026, 
+          -0.11133
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 10.0, 
+        "Confirme_2": 61.0, 
+        "Confirme_1": 50.0, 
+        "Malaria_in": 1.0, 
+        "FID": 99, 
+        "Y": -0.11133, 
+        "X": 34.80026, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / Blue Ray Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78698, 
+          -0.11627
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 11.0, 
+        "Confirme_1": 11.0, 
+        "Malaria_in": 0.0, 
+        "FID": 100, 
+        "Y": -0.11627, 
+        "X": 34.78698, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / Geva Family Health Services"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78701, 
+          -0.11659
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 107.0, 
+        "Confirme_2": 495.0, 
+        "Confirme_1": 364.0, 
+        "Malaria_in": 24.0, 
+        "FID": 101, 
+        "Y": -0.11659, 
+        "X": 34.78701, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / Grays Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79239, 
+          -0.1285
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 102, 
+        "Y": -0.1285, 
+        "X": 34.79239, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / KMet Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.82439, 
+          -0.12685
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 221.0, 
+        "Confirme_2": 1041.0, 
+        "Confirme_1": 816.0, 
+        "Malaria_in": 4.0, 
+        "FID": 103, 
+        "Y": -0.12685, 
+        "X": 34.82439, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / Nyalunya Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78637, 
+          -0.11526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 104, 
+        "Y": -0.11526, 
+        "X": 34.78637, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / Nyamasaria Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79335, 
+          -0.0779
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 90.0, 
+        "Confirme_2": 201.0, 
+        "Confirme_1": 110.0, 
+        "Malaria_in": 1.0, 
+        "FID": 105, 
+        "Y": -0.0779, 
+        "X": 34.79335, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / Olps Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79124, 
+          -0.10714
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 106, 
+        "Y": -0.10714, 
+        "X": 34.79124, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / Onyango Agumba Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.81079, 
+          -0.09305
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 45.0, 
+        "Confirme_2": 179.0, 
+        "Confirme_1": 130.0, 
+        "Malaria_in": 4.0, 
+        "FID": 107, 
+        "Y": -0.09305, 
+        "X": 34.81079, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / Shifa Taqwa Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.80589, 
+          -0.14279
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 26.0, 
+        "Confirme_2": 131.0, 
+        "Confirme_1": 105.0, 
+        "Malaria_in": 0.0, 
+        "FID": 108, 
+        "Y": -0.14279, 
+        "X": 34.80589, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / St. Lucia Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79098, 
+          -0.14279
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 81.0, 
+        "Confirme_2": 594.0, 
+        "Confirme_1": 508.0, 
+        "Malaria_in": 5.0, 
+        "FID": 109, 
+        "Y": -0.14279, 
+        "X": 34.79098, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / St.Georges Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79016, 
+          -0.08391
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 403.0, 
+        "Confirme_2": 1667.0, 
+        "Confirme_1": 1251.0, 
+        "Malaria_in": 13.0, 
+        "FID": 110, 
+        "Y": -0.08391, 
+        "X": 34.79016, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa Central Ward / Star Hospital Kisumu (Annex)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76798, 
+          -0.0913
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 386.0, 
+        "Confirme_2": 1582.0, 
+        "Confirme_1": 1192.0, 
+        "Malaria_in": 4.0, 
+        "FID": 111, 
+        "Y": -0.0913, 
+        "X": 34.76798, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa East Ward / Angola Community Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.74093, 
+          -0.0699
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 235.0, 
+        "Confirme_2": 931.0, 
+        "Confirme_1": 622.0, 
+        "Malaria_in": 74.0, 
+        "FID": 112, 
+        "Y": -0.0699, 
+        "X": 34.74093, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa East Ward / Chalbeat Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.84499, 
+          -0.09871
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 508.0, 
+        "Confirme_2": 1558.0, 
+        "Confirme_1": 1032.0, 
+        "Malaria_in": 18.0, 
+        "FID": 113, 
+        "Y": -0.09871, 
+        "X": 34.84499, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa East Ward / Chiga Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.71011, 
+          -0.07183
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 222.0, 
+        "Confirme_2": 1430.0, 
+        "Confirme_1": 1201.0, 
+        "Malaria_in": 7.0, 
+        "FID": 114, 
+        "Y": -0.07183, 
+        "X": 34.71011, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa East Ward / GK Prisons Dispensary (Kibos)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.74194, 
+          -0.06824
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 115.0, 
+        "Confirme_2": 691.0, 
+        "Confirme_1": 572.0, 
+        "Malaria_in": 4.0, 
+        "FID": 115, 
+        "Y": -0.06824, 
+        "X": 34.74194, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa East Ward / Maisha Medical clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.88249, 
+          -0.0798
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 138.0, 
+        "Confirme_2": 548.0, 
+        "Confirme_1": 408.0, 
+        "Malaria_in": 2.0, 
+        "FID": 116, 
+        "Y": -0.0798, 
+        "X": 34.88249, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa East Ward / Obino Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78791, 
+          -0.14363
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 202.0, 
+        "Confirme_2": 1185.0, 
+        "Confirme_1": 914.0, 
+        "Malaria_in": 69.0, 
+        "FID": 117, 
+        "Y": -0.14363, 
+        "X": 34.78791, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa East Ward / Orongo Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76722, 
+          -0.09128
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 352.0, 
+        "Confirme_2": 2747.0, 
+        "Confirme_1": 2390.0, 
+        "Malaria_in": 5.0, 
+        "FID": 118, 
+        "Y": -0.09128, 
+        "X": 34.76722, 
+        "Data": "Kisumu County / Kisumu East Sub County / Kolwa East Ward / St Elizabeth Chiga Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75057, 
+          -0.12747
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 119, 
+        "Y": -0.12747, 
+        "X": 34.75057, 
+        "Data": "Kisumu County / Kisumu East Sub County / Manyatta B Ward / Abundant Life Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7843, 
+          -0.05805
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 120, 
+        "Y": -0.05805, 
+        "X": 34.7843, 
+        "Data": "Kisumu County / Kisumu East Sub County / Manyatta B Ward / Carol Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78292, 
+          -0.10202
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 171.0, 
+        "Confirme_2": 705.0, 
+        "Confirme_1": 507.0, 
+        "Malaria_in": 27.0, 
+        "FID": 121, 
+        "Y": -0.10202, 
+        "X": 34.78292, 
+        "Data": "Kisumu County / Kisumu East Sub County / Manyatta B Ward / Kuoyo Health Center"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78029, 
+          -0.09252
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 10.0, 
+        "Confirme_2": 44.0, 
+        "Confirme_1": 34.0, 
+        "Malaria_in": 0.0, 
+        "FID": 122, 
+        "Y": -0.09252, 
+        "X": 34.78029, 
+        "Data": "Kisumu County / Kisumu East Sub County / Manyatta B Ward / Manyatta Community Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76536, 
+          -0.09627
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 123, 
+        "Y": -0.09627, 
+        "X": 34.76536, 
+        "Data": "Kisumu County / Kisumu East Sub County / Manyatta B Ward / Yoef Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76877, 
+          -0.11363
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 354.0, 
+        "Confirme_2": 1237.0, 
+        "Confirme_1": 857.0, 
+        "Malaria_in": 26.0, 
+        "FID": 124, 
+        "Y": -0.11363, 
+        "X": 34.76877, 
+        "Data": "Kisumu County / Kisumu East Sub County / Nyalenda A Ward / Kowino Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.72852, 
+          -0.0817
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 151.0, 
+        "Confirme_2": 877.0, 
+        "Confirme_1": 711.0, 
+        "Malaria_in": 15.0, 
+        "FID": 125, 
+        "Y": -0.0817, 
+        "X": 34.72852, 
+        "Data": "Kisumu County / Kisumu West Sub County / Central Kisumu Ward / Airport Health Centre (Kisumu)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.72909, 
+          -0.07636
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 34.0, 
+        "Confirme_2": 166.0, 
+        "Confirme_1": 129.0, 
+        "Malaria_in": 3.0, 
+        "FID": 126, 
+        "Y": -0.07636, 
+        "X": 34.72909, 
+        "Data": "Kisumu County / Kisumu West Sub County / Central Kisumu Ward / Benec Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.62478, 
+          -0.0574
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 10.0, 
+        "Confirme_2": 58.0, 
+        "Confirme_1": 48.0, 
+        "Malaria_in": 0.0, 
+        "FID": 127, 
+        "Y": -0.0574, 
+        "X": 34.62478, 
+        "Data": "Kisumu County / Kisumu West Sub County / Central Kisumu Ward / Kemri Clinic (Kisumu West)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.73408, 
+          -0.07347
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 31.0, 
+        "Confirme_1": 31.0, 
+        "Malaria_in": 0.0, 
+        "FID": 128, 
+        "Y": -0.07347, 
+        "X": 34.73408, 
+        "Data": "Kisumu County / Kisumu West Sub County / Central Kisumu Ward / Kisumu International Airport Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.71191, 
+          -0.06595
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 147.0, 
+        "Confirme_2": 2112.0, 
+        "Confirme_1": 1956.0, 
+        "Malaria_in": 9.0, 
+        "FID": 129, 
+        "Y": -0.06595, 
+        "X": 34.71191, 
+        "Data": "Kisumu County / Kisumu West Sub County / Central Kisumu Ward / Kodiaga Prison Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75249, 
+          -0.10407
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 318.0, 
+        "Confirme_2": 1931.0, 
+        "Confirme_1": 1589.0, 
+        "Malaria_in": 24.0, 
+        "FID": 130, 
+        "Y": -0.10407, 
+        "X": 34.75249, 
+        "Data": "Kisumu County / Kisumu West Sub County / Central Kisumu Ward / Port Florence Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.76627, 
+          -0.07112
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 366.0, 
+        "Confirme_2": 2072.0, 
+        "Confirme_1": 1706.0, 
+        "Malaria_in": 0.0, 
+        "FID": 131, 
+        "Y": -0.07112, 
+        "X": 34.76627, 
+        "Data": "Kisumu County / Kisumu West Sub County / Central Kisumu Ward / St Jairus Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.69894, 
+          -0.07436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 233.0, 
+        "Confirme_2": 1536.0, 
+        "Confirme_1": 1285.0, 
+        "Malaria_in": 18.0, 
+        "FID": 132, 
+        "Y": -0.07436, 
+        "X": 34.69894, 
+        "Data": "Kisumu County / Kisumu West Sub County / Central Kisumu Ward / St Mark's Lela Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.71963, 
+          -0.10351
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 368.0, 
+        "Confirme_2": 1685.0, 
+        "Confirme_1": 1315.0, 
+        "Malaria_in": 2.0, 
+        "FID": 133, 
+        "Y": -0.10351, 
+        "X": 34.71963, 
+        "Data": "Kisumu County / Kisumu West Sub County / Central Kisumu Ward / Usoma Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75251, 
+          -0.10498
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 77.0, 
+        "Confirme_2": 189.0, 
+        "Confirme_1": 105.0, 
+        "Malaria_in": 7.0, 
+        "FID": 134, 
+        "Y": -0.10498, 
+        "X": 34.75251, 
+        "Data": "Kisumu County / Kisumu West Sub County / Kisumu North Ward / Amani Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.72858, 
+          -0.06651
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 362.0, 
+        "Confirme_2": 931.0, 
+        "Confirme_1": 564.0, 
+        "Malaria_in": 5.0, 
+        "FID": 135, 
+        "Y": -0.06651, 
+        "X": 34.72858, 
+        "Data": "Kisumu County / Kisumu West Sub County / Kisumu North Ward / Barkorumba Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.73959, 
+          -0.03264
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 266.0, 
+        "Confirme_2": 684.0, 
+        "Confirme_1": 404.0, 
+        "Malaria_in": 14.0, 
+        "FID": 136, 
+        "Y": -0.03264, 
+        "X": 34.73959, 
+        "Data": "Kisumu County / Kisumu West Sub County / Kisumu North Ward / Dago Kokore Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.69672, 
+          -0.03813
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 240.0, 
+        "Confirme_2": 633.0, 
+        "Confirme_1": 393.0, 
+        "Malaria_in": 0.0, 
+        "FID": 137, 
+        "Y": -0.03813, 
+        "X": 34.69672, 
+        "Data": "Kisumu County / Kisumu West Sub County / Kisumu North Ward / Dawamea Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.75516, 
+          -0.03588
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 325.0, 
+        "Confirme_2": 1228.0, 
+        "Confirme_1": 903.0, 
+        "Malaria_in": 0.0, 
+        "FID": 138, 
+        "Y": -0.03588, 
+        "X": 34.75516, 
+        "Data": "Kisumu County / Kisumu West Sub County / Kisumu North Ward / Geta Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7128, 
+          -0.03443
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 456.0, 
+        "Confirme_2": 2199.0, 
+        "Confirme_1": 1734.0, 
+        "Malaria_in": 9.0, 
+        "FID": 139, 
+        "Y": -0.03443, 
+        "X": 34.7128, 
+        "Data": "Kisumu County / Kisumu West Sub County / Kisumu North Ward / Nyahera Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.732, 
+          -0.05655
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 140, 
+        "Y": -0.05655, 
+        "X": 34.732, 
+        "Data": "Kisumu County / Kisumu West Sub County / Kisumu North Ward / SOS Children Medical Clinic (Kisumu)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.69205, 
+          -0.03802
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 750.0, 
+        "Confirme_2": 2396.0, 
+        "Confirme_1": 1614.0, 
+        "Malaria_in": 32.0, 
+        "FID": 141, 
+        "Y": -0.03802, 
+        "X": 34.69205, 
+        "Data": "Kisumu County / Kisumu West Sub County / North West Kisumu Ward / Chulaimbo County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.70033, 
+          -0.08222
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 142, 
+        "Y": -0.08222, 
+        "X": 34.70033, 
+        "Data": "Kisumu County / Kisumu West Sub County / North West Kisumu Ward / Lake Basin Development Authority Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.6286, 
+          -0.03907
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 176.0, 
+        "Confirme_2": 1788.0, 
+        "Confirme_1": 1610.0, 
+        "Malaria_in": 2.0, 
+        "FID": 143, 
+        "Y": -0.03907, 
+        "X": 34.6286, 
+        "Data": "Kisumu County / Kisumu West Sub County / North West Kisumu Ward / Masaba Hospital Kisumu"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.61169, 
+          0.00114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 106.0, 
+        "Confirme_2": 1467.0, 
+        "Confirme_1": 1350.0, 
+        "Malaria_in": 11.0, 
+        "FID": 144, 
+        "Y": 0.00114, 
+        "X": 34.61169, 
+        "Data": "Kisumu County / Kisumu West Sub County / North West Kisumu Ward / Maseno Mission Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.59734, 
+          -0.00621
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 106.0, 
+        "Confirme_2": 2114.0, 
+        "Confirme_1": 1999.0, 
+        "Malaria_in": 9.0, 
+        "FID": 145, 
+        "Y": -0.00621, 
+        "X": 34.59734, 
+        "Data": "Kisumu County / Kisumu West Sub County / North West Kisumu Ward / Maseno University Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.63531, 
+          -0.0149
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 197.0, 
+        "Confirme_2": 1177.0, 
+        "Confirme_1": 979.0, 
+        "Malaria_in": 1.0, 
+        "FID": 146, 
+        "Y": -0.0149, 
+        "X": 34.63531, 
+        "Data": "Kisumu County / Kisumu West Sub County / North West Kisumu Ward / Mbaka Oromo Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.650807, 
+          -0.04643
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 15.0, 
+        "Confirme_2": 148.0, 
+        "Confirme_1": 131.0, 
+        "Malaria_in": 2.0, 
+        "FID": 147, 
+        "Y": -0.04643, 
+        "X": 34.650807, 
+        "Data": "Kisumu County / Kisumu West Sub County / North West Kisumu Ward / Neorao Medical clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.60744, 
+          0.00753
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 6.0, 
+        "Confirme_2": 24.0, 
+        "Confirme_1": 18.0, 
+        "Malaria_in": 0.0, 
+        "FID": 148, 
+        "Y": 0.00753, 
+        "X": 34.60744, 
+        "Data": "Kisumu County / Kisumu West Sub County / North West Kisumu Ward / Sifiwe Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.60978, 
+          0.00176
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 246.0, 
+        "Confirme_2": 1361.0, 
+        "Confirme_1": 1104.0, 
+        "Malaria_in": 11.0, 
+        "FID": 149, 
+        "Y": 0.00176, 
+        "X": 34.60978, 
+        "Data": "Kisumu County / Kisumu West Sub County / North West Kisumu Ward / Siriba Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.59159, 
+          -0.03431
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 217.0, 
+        "Confirme_2": 1675.0, 
+        "Confirme_1": 1457.0, 
+        "Malaria_in": 1.0, 
+        "FID": 150, 
+        "Y": -0.03431, 
+        "X": 34.59159, 
+        "Data": "Kisumu County / Kisumu West Sub County / North West Kisumu Ward / Sunga Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.6207, 
+          -0.14046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 42.0, 
+        "Confirme_2": 133.0, 
+        "Confirme_1": 88.0, 
+        "Malaria_in": 3.0, 
+        "FID": 151, 
+        "Y": -0.14046, 
+        "X": 34.6207, 
+        "Data": "Kisumu County / Kisumu West Sub County / South West Kisumu Ward / Leal Community Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.59992, 
+          -0.89936
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 152, 
+        "Y": -0.89936, 
+        "X": 34.59992, 
+        "Data": "Kisumu County / Kisumu West Sub County / South West Kisumu Ward / Nyitienge Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.60937, 
+          -0.11457
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 779.0, 
+        "Confirme_2": 2693.0, 
+        "Confirme_1": 1809.0, 
+        "Malaria_in": 105.0, 
+        "FID": 153, 
+        "Y": -0.11457, 
+        "X": 34.60937, 
+        "Data": "Kisumu County / Kisumu West Sub County / South West Kisumu Ward / Ober Kamoth Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.63026, 
+          -0.11509
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 283.0, 
+        "Confirme_2": 991.0, 
+        "Confirme_1": 690.0, 
+        "Malaria_in": 18.0, 
+        "FID": 154, 
+        "Y": -0.11509, 
+        "X": 34.63026, 
+        "Data": "Kisumu County / Kisumu West Sub County / South West Kisumu Ward / Ojola Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.64807, 
+          -0.08587
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 231.0, 
+        "Confirme_2": 1042.0, 
+        "Confirme_1": 810.0, 
+        "Malaria_in": 1.0, 
+        "FID": 155, 
+        "Y": -0.08587, 
+        "X": 34.64807, 
+        "Data": "Kisumu County / Kisumu West Sub County / South West Kisumu Ward / Ongalo Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.63478, 
+          -0.118854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 180.0, 
+        "Confirme_2": 736.0, 
+        "Confirme_1": 556.0, 
+        "Malaria_in": 0.0, 
+        "FID": 156, 
+        "Y": -0.118854, 
+        "X": 34.63478, 
+        "Data": "Kisumu County / Kisumu West Sub County / South West Kisumu Ward / Paga Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.5273, 
+          -0.06336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 267.0, 
+        "Confirme_2": 1282.0, 
+        "Confirme_1": 1012.0, 
+        "Malaria_in": 3.0, 
+        "FID": 157, 
+        "Y": -0.06336, 
+        "X": 34.5273, 
+        "Data": "Kisumu County / Kisumu West Sub County / South West Kisumu Ward / Rota Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.57639, 
+          -0.05288
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 280.0, 
+        "Confirme_2": 1167.0, 
+        "Confirme_1": 883.0, 
+        "Malaria_in": 4.0, 
+        "FID": 158, 
+        "Y": -0.05288, 
+        "X": 34.57639, 
+        "Data": "Kisumu County / Kisumu West Sub County / West Kisumu Ward / Aboge Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.62257, 
+          -0.09234
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 335.0, 
+        "Confirme_2": 1591.0, 
+        "Confirme_1": 1181.0, 
+        "Malaria_in": 75.0, 
+        "FID": 159, 
+        "Y": -0.09234, 
+        "X": 34.62257, 
+        "Data": "Kisumu County / Kisumu West Sub County / West Kisumu Ward / Gombe Kokulo Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.59887, 
+          -0.09861
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 87.0, 
+        "Confirme_2": 557.0, 
+        "Confirme_1": 463.0, 
+        "Malaria_in": 7.0, 
+        "FID": 160, 
+        "Y": -0.09861, 
+        "X": 34.59887, 
+        "Data": "Kisumu County / Kisumu West Sub County / West Kisumu Ward / Good Neighbour Medical clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.61828, 
+          -0.07629
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 353.0, 
+        "Confirme_2": 1946.0, 
+        "Confirme_1": 1589.0, 
+        "Malaria_in": 4.0, 
+        "FID": 161, 
+        "Y": -0.07629, 
+        "X": 34.61828, 
+        "Data": "Kisumu County / Kisumu West Sub County / West Kisumu Ward / Lwala Kadawa Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77179, 
+          -0.08876
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 282.0, 
+        "Confirme_2": 1677.0, 
+        "Confirme_1": 1382.0, 
+        "Malaria_in": 13.0, 
+        "FID": 162, 
+        "Y": -0.08876, 
+        "X": 34.77179, 
+        "Data": "Kisumu County / Kisumu West Sub County / West Kisumu Ward / Mainga Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.60168, 
+          -0.0926
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 96.0, 
+        "Confirme_2": 304.0, 
+        "Confirme_1": 201.0, 
+        "Malaria_in": 7.0, 
+        "FID": 163, 
+        "Y": -0.0926, 
+        "X": 34.60168, 
+        "Data": "Kisumu County / Kisumu West Sub County / West Kisumu Ward / Park Medical clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.754, 
+          -0.05077
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 493.0, 
+        "Confirme_2": 3051.0, 
+        "Confirme_1": 2554.0, 
+        "Malaria_in": 4.0, 
+        "FID": 164, 
+        "Y": -0.05077, 
+        "X": 34.754, 
+        "Data": "Kisumu County / Kisumu West Sub County / West Kisumu Ward / Riat Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.13723, 
+          -0.07948
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 103.0, 
+        "Confirme_2": 1113.0, 
+        "Confirme_1": 1009.0, 
+        "Malaria_in": 1.0, 
+        "FID": 165, 
+        "Y": -0.07948, 
+        "X": 35.13723, 
+        "Data": "Kisumu County / Muhoroni Sub County / Chemelil Ward / Chemelil Sugar Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.04946, 
+          -0.07327
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 387.0, 
+        "Confirme_2": 1818.0, 
+        "Confirme_1": 1428.0, 
+        "Malaria_in": 3.0, 
+        "FID": 166, 
+        "Y": -0.07327, 
+        "X": 35.04946, 
+        "Data": "Kisumu County / Muhoroni Sub County / Chemelil Ward / Kibigori Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.16952, 
+          -0.12639
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 332.0, 
+        "Confirme_2": 1276.0, 
+        "Confirme_1": 934.0, 
+        "Malaria_in": 10.0, 
+        "FID": 167, 
+        "Y": -0.12639, 
+        "X": 35.16952, 
+        "Data": "Kisumu County / Muhoroni Sub County / Chemelil Ward / Makindu Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.13511, 
+          -0.08183
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 229.0, 
+        "Confirme_2": 1591.0, 
+        "Confirme_1": 1361.0, 
+        "Malaria_in": 1.0, 
+        "FID": 168, 
+        "Y": -0.08183, 
+        "X": 35.13511, 
+        "Data": "Kisumu County / Muhoroni Sub County / Chemelil Ward / Mashambani Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.11946, 
+          -0.03081
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 261.0, 
+        "Confirme_2": 1658.0, 
+        "Confirme_1": 1395.0, 
+        "Malaria_in": 2.0, 
+        "FID": 169, 
+        "Y": -0.03081, 
+        "X": 35.11946, 
+        "Data": "Kisumu County / Muhoroni Sub County / Chemelil Ward / Nyangore Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.18184, 
+          -0.03895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 412.0, 
+        "Confirme_2": 3254.0, 
+        "Confirme_1": 2825.0, 
+        "Malaria_in": 17.0, 
+        "FID": 170, 
+        "Y": -0.03895, 
+        "X": 35.18184, 
+        "Data": "Kisumu County / Muhoroni Sub County / Chemelil Ward / Ogen Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.14125, 
+          -0.08479
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 98.0, 
+        "Confirme_2": 754.0, 
+        "Confirme_1": 653.0, 
+        "Malaria_in": 3.0, 
+        "FID": 171, 
+        "Y": -0.08479, 
+        "X": 35.14125, 
+        "Data": "Kisumu County / Muhoroni Sub County / Chemelil Ward / Songoh Health Center"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.2025, 
+          -0.09993
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 185.0, 
+        "Confirme_2": 1279.0, 
+        "Confirme_1": 1087.0, 
+        "Malaria_in": 7.0, 
+        "FID": 172, 
+        "Y": -0.09993, 
+        "X": 35.2025, 
+        "Data": "Kisumu County / Muhoroni Sub County / Chemelil Ward / Tamu Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.17893, 
+          -0.0799
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 90.0, 
+        "Confirme_2": 795.0, 
+        "Confirme_1": 698.0, 
+        "Malaria_in": 7.0, 
+        "FID": 173, 
+        "Y": -0.0799, 
+        "X": 35.17893, 
+        "Data": "Kisumu County / Muhoroni Sub County / Chemelil Ward / Yago Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.10847, 
+          -0.10702
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 470.0, 
+        "Confirme_2": 2023.0, 
+        "Confirme_1": 1518.0, 
+        "Malaria_in": 35.0, 
+        "FID": 174, 
+        "Y": -0.10702, 
+        "X": 35.10847, 
+        "Data": "Kisumu County / Muhoroni Sub County / Masogo/Nyang'oma Ward / Chemelil Dispensary (Mohoroni)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.84719, 
+          -0.17267
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 175, 
+        "Y": -0.17267, 
+        "X": 34.84719, 
+        "Data": "Kisumu County / Muhoroni Sub County / Masogo/Nyang'oma Ward / Julia Huebner Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.85372, 
+          -0.15307
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 7.0, 
+        "Confirme_2": 58.0, 
+        "Confirme_1": 50.0, 
+        "Malaria_in": 1.0, 
+        "FID": 176, 
+        "Y": -0.15307, 
+        "X": 34.85372, 
+        "Data": "Kisumu County / Muhoroni Sub County / Masogo/Nyang'oma Ward / Masaka Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.19842, 
+          -0.15637
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 656.0, 
+        "Confirme_2": 2311.0, 
+        "Confirme_1": 1639.0, 
+        "Malaria_in": 16.0, 
+        "FID": 177, 
+        "Y": -0.15637, 
+        "X": 35.19842, 
+        "Data": "Kisumu County / Muhoroni Sub County / Masogo/Nyang'oma Ward / Masogo Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.34987, 
+          -0.01669
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 451.0, 
+        "Confirme_2": 2361.0, 
+        "Confirme_1": 1891.0, 
+        "Malaria_in": 19.0, 
+        "FID": 178, 
+        "Y": -0.01669, 
+        "X": 34.34987, 
+        "Data": "Kisumu County / Muhoroni Sub County / Masogo/Nyang'oma Ward / Migere Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.0637, 
+          -0.12079
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 448.0, 
+        "Confirme_2": 1790.0, 
+        "Confirme_1": 1328.0, 
+        "Malaria_in": 14.0, 
+        "FID": 179, 
+        "Y": -0.12079, 
+        "X": 35.0637, 
+        "Data": "Kisumu County / Muhoroni Sub County / Masogo/Nyang'oma Ward / Milenye Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.0845, 
+          -0.10042
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 272.0, 
+        "Confirme_2": 1870.0, 
+        "Confirme_1": 1583.0, 
+        "Malaria_in": 15.0, 
+        "FID": 180, 
+        "Y": -0.10042, 
+        "X": 35.0845, 
+        "Data": "Kisumu County / Muhoroni Sub County / Masogo/Nyang'oma Ward / Nyakunguru Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.04405, 
+          -0.14528
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 314.0, 
+        "Confirme_2": 883.0, 
+        "Confirme_1": 553.0, 
+        "Malaria_in": 16.0, 
+        "FID": 181, 
+        "Y": -0.14528, 
+        "X": 35.04405, 
+        "Data": "Kisumu County / Muhoroni Sub County / Masogo/Nyang'oma Ward / Nyang'oma Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.84549, 
+          -0.17085
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 182, 
+        "Y": -0.17085, 
+        "X": 34.84549, 
+        "Data": "Kisumu County / Muhoroni Sub County / Masogo/Nyang'oma Ward / Tumaini Dice"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.19988, 
+          -0.16024
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 378.0, 
+        "Confirme_2": 1407.0, 
+        "Confirme_1": 1018.0, 
+        "Malaria_in": 11.0, 
+        "FID": 183, 
+        "Y": -0.16024, 
+        "X": 35.19988, 
+        "Data": "Kisumu County / Muhoroni Sub County / Miwani Ward / Kasongo Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.09003, 
+          -0.05475
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 329.0, 
+        "Confirme_2": 1616.0, 
+        "Confirme_1": 1282.0, 
+        "Malaria_in": 5.0, 
+        "FID": 184, 
+        "Y": -0.05475, 
+        "X": 34.09003, 
+        "Data": "Kisumu County / Muhoroni Sub County / Miwani Ward / Miranga Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78402, 
+          -0.05862
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 321.0, 
+        "Confirme_2": 1125.0, 
+        "Confirme_1": 796.0, 
+        "Malaria_in": 8.0, 
+        "FID": 185, 
+        "Y": -0.05862, 
+        "X": 34.78402, 
+        "Data": "Kisumu County / Muhoroni Sub County / Miwani Ward / Miwani Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.90282, 
+          -0.04796
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 19.0, 
+        "Confirme_2": 159.0, 
+        "Confirme_1": 121.0, 
+        "Malaria_in": 19.0, 
+        "FID": 186, 
+        "Y": -0.04796, 
+        "X": 34.90282, 
+        "Data": "Kisumu County / Muhoroni Sub County / Miwani Ward / Nehemiah International Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.98916, 
+          -0.17134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 198.0, 
+        "Confirme_2": 753.0, 
+        "Confirme_1": 555.0, 
+        "Malaria_in": 0.0, 
+        "FID": 187, 
+        "Y": -0.17134, 
+        "X": 34.98916, 
+        "Data": "Kisumu County / Muhoroni Sub County / Miwani Ward / Nyakoko Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.1984, 
+          -0.15652
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 83.0, 
+        "Confirme_2": 736.0, 
+        "Confirme_1": 648.0, 
+        "Malaria_in": 5.0, 
+        "FID": 188, 
+        "Y": -0.15652, 
+        "X": 35.1984, 
+        "Data": "Kisumu County / Muhoroni Sub County / Muhoroni Koru Ward / Agro Chemical Dispensary (Muhoroni)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.17993, 
+          -0.03682
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 113.0, 
+        "Confirme_2": 751.0, 
+        "Confirme_1": 633.0, 
+        "Malaria_in": 5.0, 
+        "FID": 189, 
+        "Y": -0.03682, 
+        "X": 35.17993, 
+        "Data": "Kisumu County / Muhoroni Sub County / Muhoroni Koru Ward / Jaber Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.1984, 
+          -0.15637
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 41.0, 
+        "Confirme_2": 340.0, 
+        "Confirme_1": 295.0, 
+        "Malaria_in": 4.0, 
+        "FID": 190, 
+        "Y": -0.15637, 
+        "X": 35.1984, 
+        "Data": "Kisumu County / Muhoroni Sub County / Muhoroni Koru Ward / Kandege Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.26687, 
+          -0.18047
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 124.0, 
+        "Confirme_2": 911.0, 
+        "Confirme_1": 785.0, 
+        "Malaria_in": 2.0, 
+        "FID": 191, 
+        "Y": -0.18047, 
+        "X": 35.26687, 
+        "Data": "Kisumu County / Muhoroni Sub County / Muhoroni Koru Ward / Koru Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.27388, 
+          -0.18586
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 134.0, 
+        "Confirme_2": 1203.0, 
+        "Confirme_1": 1031.0, 
+        "Malaria_in": 38.0, 
+        "FID": 192, 
+        "Y": -0.18586, 
+        "X": 35.27388, 
+        "Data": "Kisumu County / Muhoroni Sub County / Muhoroni Koru Ward / Koru Mission Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.19851, 
+          -0.15689
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 122.0, 
+        "Confirme_2": 863.0, 
+        "Confirme_1": 737.0, 
+        "Malaria_in": 4.0, 
+        "FID": 193, 
+        "Y": -0.15689, 
+        "X": 35.19851, 
+        "Data": "Kisumu County / Muhoroni Sub County / Muhoroni Koru Ward / Mnara Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.2056, 
+          -0.15133
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 202.0, 
+        "Confirme_2": 1020.0, 
+        "Confirme_1": 767.0, 
+        "Malaria_in": 51.0, 
+        "FID": 194, 
+        "Y": -0.15133, 
+        "X": 35.2056, 
+        "Data": "Kisumu County / Muhoroni Sub County / Muhoroni Koru Ward / Muhoroni County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.18645, 
+          -0.15267
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 60.0, 
+        "Confirme_2": 608.0, 
+        "Confirme_1": 548.0, 
+        "Malaria_in": 0.0, 
+        "FID": 195, 
+        "Y": -0.15267, 
+        "X": 35.18645, 
+        "Data": "Kisumu County / Muhoroni Sub County / Muhoroni Koru Ward / Muhoroni Sugar Company (Musco) Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.20424, 
+          -0.15859
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 410.0, 
+        "Confirme_2": 4766.0, 
+        "Confirme_1": 4350.0, 
+        "Malaria_in": 6.0, 
+        "FID": 196, 
+        "Y": -0.15859, 
+        "X": 35.20424, 
+        "Data": "Kisumu County / Muhoroni Sub County / Muhoroni Koru Ward / Rachar Sugar Belt Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.19511, 
+          -0.16012
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 78.0, 
+        "Confirme_2": 996.0, 
+        "Confirme_1": 891.0, 
+        "Malaria_in": 27.0, 
+        "FID": 197, 
+        "Y": -0.16012, 
+        "X": 35.19511, 
+        "Data": "Kisumu County / Muhoroni Sub County / Muhoroni Koru Ward / St Vincents De Paul Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.9286, 
+          -0.10687
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 204.0, 
+        "Confirme_2": 1057.0, 
+        "Confirme_1": 835.0, 
+        "Malaria_in": 18.0, 
+        "FID": 198, 
+        "Y": -0.10687, 
+        "X": 34.9286, 
+        "Data": "Kisumu County / Muhoroni Sub County / Ombeyi Ward / Mama Plister Blair Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.8734, 
+          -0.09945
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 694.0, 
+        "Confirme_2": 2529.0, 
+        "Confirme_1": 1679.0, 
+        "Malaria_in": 156.0, 
+        "FID": 199, 
+        "Y": -0.09945, 
+        "X": 34.8734, 
+        "Data": "Kisumu County / Muhoroni Sub County / Ombeyi Ward / Obumba Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.95051, 
+          -0.11126
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 24.0, 
+        "Confirme_2": 243.0, 
+        "Confirme_1": 219.0, 
+        "Malaria_in": 0.0, 
+        "FID": 200, 
+        "Y": -0.11126, 
+        "X": 34.95051, 
+        "Data": "Kisumu County / Muhoroni Sub County / Ombeyi Ward / Ogra Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.9617, 
+          -0.09925
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 538.0, 
+        "Confirme_2": 1985.0, 
+        "Confirme_1": 1442.0, 
+        "Malaria_in": 5.0, 
+        "FID": 201, 
+        "Y": -0.09925, 
+        "X": 34.9617, 
+        "Data": "Kisumu County / Muhoroni Sub County / Ombeyi Ward / Ramula Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.90098, 
+          -0.32653
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 637.0, 
+        "Confirme_2": 3239.0, 
+        "Confirme_1": 2592.0, 
+        "Malaria_in": 10.0, 
+        "FID": 202, 
+        "Y": -0.32653, 
+        "X": 34.90098, 
+        "Data": "Kisumu County / Nyakach Sub County / Central Nyakach Ward / Bonde Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.97419, 
+          -0.32424
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 203, 
+        "Y": -0.32424, 
+        "X": 34.97419, 
+        "Data": "Kisumu County / Nyakach Sub County / Central Nyakach Ward / Kodum Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.92667, 
+          -0.33548
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 110.0, 
+        "Confirme_2": 735.0, 
+        "Confirme_1": 625.0, 
+        "Malaria_in": 0.0, 
+        "FID": 204, 
+        "Y": -0.33548, 
+        "X": 34.92667, 
+        "Data": "Kisumu County / Nyakach Sub County / Central Nyakach Ward / Nyabola CDF Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.93677, 
+          -0.31286
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 672.0, 
+        "Confirme_2": 1838.0, 
+        "Confirme_1": 1164.0, 
+        "Malaria_in": 2.0, 
+        "FID": 205, 
+        "Y": -0.31286, 
+        "X": 34.93677, 
+        "Data": "Kisumu County / Nyakach Sub County / Central Nyakach Ward / Nyakach County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.90736, 
+          -0.34033
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 288.0, 
+        "Confirme_2": 2143.0, 
+        "Confirme_1": 1843.0, 
+        "Malaria_in": 12.0, 
+        "FID": 206, 
+        "Y": -0.34033, 
+        "X": 34.90736, 
+        "Data": "Kisumu County / Nyakach Sub County / Central Nyakach Ward / Pedo Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.02834, 
+          -0.28977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 170.0, 
+        "Confirme_2": 955.0, 
+        "Confirme_1": 784.0, 
+        "Malaria_in": 1.0, 
+        "FID": 207, 
+        "Y": -0.28977, 
+        "X": 35.02834, 
+        "Data": "Kisumu County / Nyakach Sub County / North Nyakach Ward / Cherwa Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.07343, 
+          -0.1612
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 44.0, 
+        "Confirme_2": 309.0, 
+        "Confirme_1": 247.0, 
+        "Malaria_in": 18.0, 
+        "FID": 208, 
+        "Y": -0.1612, 
+        "X": 35.07343, 
+        "Data": "Kisumu County / Nyakach Sub County / North Nyakach Ward / House of Hope Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.98011, 
+          -0.33699
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 237.0, 
+        "Confirme_2": 1062.0, 
+        "Confirme_1": 823.0, 
+        "Malaria_in": 2.0, 
+        "FID": 209, 
+        "Y": -0.33699, 
+        "X": 34.98011, 
+        "Data": "Kisumu County / Nyakach Sub County / North Nyakach Ward / Kandaria Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.8542, 
+          -0.33163
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 194.0, 
+        "Confirme_2": 810.0, 
+        "Confirme_1": 609.0, 
+        "Malaria_in": 7.0, 
+        "FID": 210, 
+        "Y": -0.33163, 
+        "X": 34.8542, 
+        "Data": "Kisumu County / Nyakach Sub County / North Nyakach Ward / Katito Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.77174, 
+          -0.08872
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 298.0, 
+        "Confirme_2": 1365.0, 
+        "Confirme_1": 1055.0, 
+        "Malaria_in": 12.0, 
+        "FID": 211, 
+        "Y": -0.08872, 
+        "X": 34.77174, 
+        "Data": "Kisumu County / Nyakach Sub County / North Nyakach Ward / Katito Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.93311, 
+          -0.38549
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 319.0, 
+        "Confirme_2": 1977.0, 
+        "Confirme_1": 1642.0, 
+        "Malaria_in": 16.0, 
+        "FID": 212, 
+        "Y": -0.38549, 
+        "X": 34.93311, 
+        "Data": "Kisumu County / Nyakach Sub County / North Nyakach Ward / Kibogo Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.96303, 
+          -0.29106
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 97.0, 
+        "Confirme_2": 736.0, 
+        "Confirme_1": 634.0, 
+        "Malaria_in": 5.0, 
+        "FID": 213, 
+        "Y": -0.29106, 
+        "X": 34.96303, 
+        "Data": "Kisumu County / Nyakach Sub County / North Nyakach Ward / Lisana Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.06482, 
+          -0.32152
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 411.0, 
+        "Confirme_2": 2960.0, 
+        "Confirme_1": 2357.0, 
+        "Malaria_in": 192.0, 
+        "FID": 214, 
+        "Y": -0.32152, 
+        "X": 35.06482, 
+        "Data": "Kisumu County / Nyakach Sub County / North Nyakach Ward / Onyuongo Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.95686, 
+          -0.23804
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 446.0, 
+        "Confirme_2": 2791.0, 
+        "Confirme_1": 2316.0, 
+        "Malaria_in": 29.0, 
+        "FID": 215, 
+        "Y": -0.23804, 
+        "X": 34.95686, 
+        "Data": "Kisumu County / Nyakach Sub County / North Nyakach Ward / Rae Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.9315, 
+          -0.38158
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 334.0, 
+        "Confirme_2": 1723.0, 
+        "Confirme_1": 1376.0, 
+        "Malaria_in": 13.0, 
+        "FID": 216, 
+        "Y": -0.38158, 
+        "X": 34.9315, 
+        "Data": "Kisumu County / Nyakach Sub County / North Nyakach Ward / Rang'ul Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.95968, 
+          -0.24368
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 47.0, 
+        "Confirme_2": 268.0, 
+        "Confirme_1": 216.0, 
+        "Malaria_in": 5.0, 
+        "FID": 217, 
+        "Y": -0.24368, 
+        "X": 34.95968, 
+        "Data": "Kisumu County / Nyakach Sub County / North Nyakach Ward / Shepher Lifecare Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.00576, 
+          -0.31447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 24.0, 
+        "Confirme_2": 152.0, 
+        "Confirme_1": 122.0, 
+        "Malaria_in": 6.0, 
+        "FID": 218, 
+        "Y": -0.31447, 
+        "X": 35.00576, 
+        "Data": "Kisumu County / Nyakach Sub County / South East Nyakach Ward / Bethlehem Home Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.944, 
+          -0.37585
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 1.0, 
+        "Confirme_2": 25.0, 
+        "Confirme_1": 24.0, 
+        "Malaria_in": 0.0, 
+        "FID": 219, 
+        "Y": -0.37585, 
+        "X": 34.944, 
+        "Data": "Kisumu County / Nyakach Sub County / South East Nyakach Ward / Keyo Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.9779, 
+          -0.38057
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 67.0, 
+        "Confirme_2": 2640.0, 
+        "Confirme_1": 2515.0, 
+        "Malaria_in": 58.0, 
+        "FID": 220, 
+        "Y": -0.38057, 
+        "X": 34.9779, 
+        "Data": "Kisumu County / Nyakach Sub County / South East Nyakach Ward / Nyabondo Mission Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.794, 
+          -0.3812
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 49.0, 
+        "Confirme_2": 553.0, 
+        "Confirme_1": 503.0, 
+        "Malaria_in": 1.0, 
+        "FID": 221, 
+        "Y": -0.3812, 
+        "X": 34.794, 
+        "Data": "Kisumu County / Nyakach Sub County / South East Nyakach Ward / Nyabondo Rehabilitation Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.00463, 
+          -0.31406
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 293.0, 
+        "Confirme_2": 1497.0, 
+        "Confirme_1": 1204.0, 
+        "Malaria_in": 0.0, 
+        "FID": 222, 
+        "Y": -0.31406, 
+        "X": 35.00463, 
+        "Data": "Kisumu County / Nyakach Sub County / South East Nyakach Ward / Radienya Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.9708, 
+          -0.34624
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 57.0, 
+        "Confirme_2": 577.0, 
+        "Confirme_1": 481.0, 
+        "Malaria_in": 39.0, 
+        "FID": 223, 
+        "Y": -0.34624, 
+        "X": 34.9708, 
+        "Data": "Kisumu County / Nyakach Sub County / South East Nyakach Ward / Sigoti Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.01397, 
+          -0.38975
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 80.0, 
+        "Confirme_2": 370.0, 
+        "Confirme_1": 286.0, 
+        "Malaria_in": 4.0, 
+        "FID": 224, 
+        "Y": -0.38975, 
+        "X": 35.01397, 
+        "Data": "Kisumu County / Nyakach Sub County / South East Nyakach Ward / Sondu sub county Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.01243, 
+          -0.38706
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 225, 
+        "Y": -0.38706, 
+        "X": 35.01243, 
+        "Data": "Kisumu County / Nyakach Sub County / South East Nyakach Ward / Tumaini Sondu Dice"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79067, 
+          -0.31147
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 286.0, 
+        "Confirme_2": 1832.0, 
+        "Confirme_1": 1543.0, 
+        "Malaria_in": 3.0, 
+        "FID": 226, 
+        "Y": -0.31147, 
+        "X": 34.79067, 
+        "Data": "Kisumu County / Nyakach Sub County / South West Nyakach Ward / Gari Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.92992, 
+          -0.38706
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 111.0, 
+        "Confirme_2": 649.0, 
+        "Confirme_1": 533.0, 
+        "Malaria_in": 5.0, 
+        "FID": 227, 
+        "Y": -0.38706, 
+        "X": 34.92992, 
+        "Data": "Kisumu County / Nyakach Sub County / South West Nyakach Ward / Nyakach (AIC) Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.90469, 
+          -0.37023
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 145.0, 
+        "Confirme_2": 1340.0, 
+        "Confirme_1": 1103.0, 
+        "Malaria_in": 92.0, 
+        "FID": 228, 
+        "Y": -0.37023, 
+        "X": 34.90469, 
+        "Data": "Kisumu County / Nyakach Sub County / South West Nyakach Ward / Nyamarimba Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.93791, 
+          -0.38904
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 172.0, 
+        "Confirme_2": 616.0, 
+        "Confirme_1": 444.0, 
+        "Malaria_in": 0.0, 
+        "FID": 229, 
+        "Y": -0.38904, 
+        "X": 34.93791, 
+        "Data": "Kisumu County / Nyakach Sub County / South West Nyakach Ward / Oboch Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.84587, 
+          -0.36541
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 370.0, 
+        "Confirme_2": 1334.0, 
+        "Confirme_1": 963.0, 
+        "Malaria_in": 1.0, 
+        "FID": 230, 
+        "Y": -0.36541, 
+        "X": 34.84587, 
+        "Data": "Kisumu County / Nyakach Sub County / West Nyakach Ward / Anding'o Opanga Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.85269, 
+          -0.37797
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 81.0, 
+        "Confirme_2": 466.0, 
+        "Confirme_1": 382.0, 
+        "Malaria_in": 3.0, 
+        "FID": 231, 
+        "Y": -0.37797, 
+        "X": 34.85269, 
+        "Data": "Kisumu County / Nyakach Sub County / West Nyakach Ward / Andingo Rongo"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79119, 
+          -0.31196
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 24.0, 
+        "Confirme_2": 147.0, 
+        "Confirme_1": 123.0, 
+        "Malaria_in": 0.0, 
+        "FID": 232, 
+        "Y": -0.31196, 
+        "X": 34.79119, 
+        "Data": "Kisumu County / Nyakach Sub County / West Nyakach Ward / Kengen Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79935, 
+          -0.3225
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 510.0, 
+        "Confirme_2": 2509.0, 
+        "Confirme_1": 1980.0, 
+        "Malaria_in": 19.0, 
+        "FID": 233, 
+        "Y": -0.3225, 
+        "X": 34.79935, 
+        "Data": "Kisumu County / Nyakach Sub County / West Nyakach Ward / Kodingo Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79398, 
+          -0.30122
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 194.0, 
+        "Confirme_2": 826.0, 
+        "Confirme_1": 622.0, 
+        "Malaria_in": 10.0, 
+        "FID": 234, 
+        "Y": -0.30122, 
+        "X": 34.79398, 
+        "Data": "Kisumu County / Nyakach Sub County / West Nyakach Ward / Sango Rota Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.80851, 
+          -0.34288
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 226.0, 
+        "Confirme_2": 1592.0, 
+        "Confirme_1": 1354.0, 
+        "Malaria_in": 12.0, 
+        "FID": 235, 
+        "Y": -0.34288, 
+        "X": 34.80851, 
+        "Data": "Kisumu County / Nyakach Sub County / West Nyakach Ward / Sangoro Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.87367, 
+          -0.34798
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 201.0, 
+        "Confirme_2": 1321.0, 
+        "Confirme_1": 1108.0, 
+        "Malaria_in": 12.0, 
+        "FID": 236, 
+        "Y": -0.34798, 
+        "X": 34.87367, 
+        "Data": "Kisumu County / Nyakach Sub County / West Nyakach Ward / St Clare Bolo Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78957, 
+          -0.3032
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 19.0, 
+        "Confirme_2": 236.0, 
+        "Confirme_1": 215.0, 
+        "Malaria_in": 2.0, 
+        "FID": 237, 
+        "Y": -0.3032, 
+        "X": 34.78957, 
+        "Data": "Kisumu County / Nyakach Sub County / West Nyakach Ward / St Jane Nursing Home"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.92357, 
+          -0.17323
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 1192.0, 
+        "Confirme_2": 3625.0, 
+        "Confirme_1": 2368.0, 
+        "Malaria_in": 65.0, 
+        "FID": 238, 
+        "Y": -0.17323, 
+        "X": 34.92357, 
+        "Data": "Kisumu County / Nyando Sub County / Ahero Ward / Ahero County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.94922, 
+          -0.16583
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 239, 
+        "Y": -0.16583, 
+        "X": 34.94922, 
+        "Data": "Kisumu County / Nyando Sub County / Ahero Ward / Boya Nursing Home"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.9204, 
+          -0.1742
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 717.0, 
+        "Confirme_2": 2660.0, 
+        "Confirme_1": 1864.0, 
+        "Malaria_in": 79.0, 
+        "FID": 240, 
+        "Y": -0.1742, 
+        "X": 34.9204, 
+        "Data": "Kisumu County / Nyando Sub County / Ahero Ward / Bunde Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.78957, 
+          -0.17376
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 241, 
+        "Y": -0.17376, 
+        "X": 34.78957, 
+        "Data": "Kisumu County / Nyando Sub County / Ahero Ward / Impact Research-Tuungane (Nyando)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.91798, 
+          -0.16109
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 966.0, 
+        "Confirme_2": 3999.0, 
+        "Confirme_1": 2869.0, 
+        "Malaria_in": 164.0, 
+        "FID": 242, 
+        "Y": -0.16109, 
+        "X": 34.91798, 
+        "Data": "Kisumu County / Nyando Sub County / Ahero Ward / Kadinda Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.91305, 
+          -0.17278
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 68.0, 
+        "Confirme_2": 214.0, 
+        "Confirme_1": 139.0, 
+        "Malaria_in": 7.0, 
+        "FID": 243, 
+        "Y": -0.17278, 
+        "X": 34.91305, 
+        "Data": "Kisumu County / Nyando Sub County / Ahero Ward / Kamwanda Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.7778, 
+          -0.08702
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 244, 
+        "Y": -0.08702, 
+        "X": 34.7778, 
+        "Data": "Kisumu County / Nyando Sub County / Ahero Ward / Port Florence Community Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.9204, 
+          -0.17414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 245, 
+        "Y": -0.17414, 
+        "X": 34.9204, 
+        "Data": "Kisumu County / Nyando Sub County / Ahero Ward / The Life Gate Health Care Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.07229, 
+          -0.16434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 428.0, 
+        "Confirme_2": 1622.0, 
+        "Confirme_1": 1187.0, 
+        "Malaria_in": 7.0, 
+        "FID": 246, 
+        "Y": -0.16434, 
+        "X": 35.07229, 
+        "Data": "Kisumu County / Nyando Sub County / Awasi/Onjiko Ward / Ayucha Heallth Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.93193, 
+          -0.1728
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 109.0, 
+        "Confirme_2": 1175.0, 
+        "Confirme_1": 1037.0, 
+        "Malaria_in": 29.0, 
+        "FID": 247, 
+        "Y": -0.1728, 
+        "X": 34.93193, 
+        "Data": "Kisumu County / Nyando Sub County / Awasi/Onjiko Ward / Ahero Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.07081, 
+          -0.16457
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 195.0, 
+        "Confirme_2": 521.0, 
+        "Confirme_1": 283.0, 
+        "Malaria_in": 43.0, 
+        "FID": 248, 
+        "Y": -0.16457, 
+        "X": 35.07081, 
+        "Data": "Kisumu County / Nyando Sub County / Awasi/Onjiko Ward / Alpo Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.07317, 
+          -0.16129
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 440.0, 
+        "Confirme_2": 3227.0, 
+        "Confirme_1": 2756.0, 
+        "Malaria_in": 31.0, 
+        "FID": 249, 
+        "Y": -0.16129, 
+        "X": 35.07317, 
+        "Data": "Kisumu County / Nyando Sub County / Awasi/Onjiko Ward / Awasi Mission Health Center"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.96925, 
+          -0.09027
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 426.0, 
+        "Confirme_2": 2578.0, 
+        "Confirme_1": 1988.0, 
+        "Malaria_in": 164.0, 
+        "FID": 250, 
+        "Y": -0.09027, 
+        "X": 34.96925, 
+        "Data": "Kisumu County / Nyando Sub County / Awasi/Onjiko Ward / Holo Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.0624, 
+          -0.16786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 266.0, 
+        "Confirme_2": 1592.0, 
+        "Confirme_1": 1324.0, 
+        "Malaria_in": 2.0, 
+        "FID": 251, 
+        "Y": -0.16786, 
+        "X": 35.0624, 
+        "Data": "Kisumu County / Nyando Sub County / Awasi/Onjiko Ward / Oren Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.06689, 
+          -0.16431
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 189.0, 
+        "Confirme_2": 497.0, 
+        "Confirme_1": 302.0, 
+        "Malaria_in": 6.0, 
+        "FID": 252, 
+        "Y": -0.16431, 
+        "X": 35.06689, 
+        "Data": "Kisumu County / Nyando Sub County / Awasi/Onjiko Ward / Scenic Healthcare"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.06968, 
+          -0.16587
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 253, 
+        "Y": -0.16587, 
+        "X": 35.06968, 
+        "Data": "Kisumu County / Nyando Sub County / Awasi/Onjiko Ward / St. Jenipher Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.07356, 
+          -0.16155
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 159.0, 
+        "Confirme_2": 1584.0, 
+        "Confirme_1": 1399.0, 
+        "Malaria_in": 26.0, 
+        "FID": 254, 
+        "Y": -0.16155, 
+        "X": 35.07356, 
+        "Data": "Kisumu County / Nyando Sub County / Awasi/Onjiko Ward / The Hope Medical Centre-Awasi"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.07371, 
+          -0.16104
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 563.0, 
+        "Confirme_2": 3078.0, 
+        "Confirme_1": 2496.0, 
+        "Malaria_in": 19.0, 
+        "FID": 255, 
+        "Y": -0.16104, 
+        "X": 35.07371, 
+        "Data": "Kisumu County / Nyando Sub County / Awasi/Onjiko Ward / Wanganga Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.95193, 
+          -0.19299
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 275.0, 
+        "Confirme_2": 921.0, 
+        "Confirme_1": 640.0, 
+        "Malaria_in": 6.0, 
+        "FID": 256, 
+        "Y": -0.19299, 
+        "X": 34.95193, 
+        "Data": "Kisumu County / Nyando Sub County / East Kano/Wawidhi Ward / Ayweyo Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.0288, 
+          -0.25217
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 692.0, 
+        "Confirme_2": 3578.0, 
+        "Confirme_1": 2867.0, 
+        "Malaria_in": 19.0, 
+        "FID": 257, 
+        "Y": -0.25217, 
+        "X": 35.0288, 
+        "Data": "Kisumu County / Nyando Sub County / East Kano/Wawidhi Ward / Katolo-Manyatta Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.02018, 
+          -0.24857
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 137.0, 
+        "Confirme_2": 773.0, 
+        "Confirme_1": 623.0, 
+        "Malaria_in": 13.0, 
+        "FID": 258, 
+        "Y": -0.24857, 
+        "X": 35.02018, 
+        "Data": "Kisumu County / Nyando Sub County / East Kano/Wawidhi Ward / Kinasia Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.93403, 
+          -0.21849
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 1085.0, 
+        "Confirme_2": 5816.0, 
+        "Confirme_1": 4256.0, 
+        "Malaria_in": 475.0, 
+        "FID": 259, 
+        "Y": -0.21849, 
+        "X": 34.93403, 
+        "Data": "Kisumu County / Nyando Sub County / East Kano/Wawidhi Ward / Magina Health Center"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.01289, 
+          -0.19787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 356.0, 
+        "Confirme_2": 1924.0, 
+        "Confirme_1": 1562.0, 
+        "Malaria_in": 6.0, 
+        "FID": 260, 
+        "Y": -0.19787, 
+        "X": 35.01289, 
+        "Data": "Kisumu County / Nyando Sub County / East Kano/Wawidhi Ward / Nyakongo health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.04455, 
+          -0.26725
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 537.0, 
+        "Confirme_2": 3182.0, 
+        "Confirme_1": 2634.0, 
+        "Malaria_in": 11.0, 
+        "FID": 261, 
+        "Y": -0.26725, 
+        "X": 35.04455, 
+        "Data": "Kisumu County / Nyando Sub County / East Kano/Wawidhi Ward / Olasi Dispensary (Nyando)"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.82832, 
+          -0.21983
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 25.0, 
+        "Confirme_2": 76.0, 
+        "Confirme_1": 48.0, 
+        "Malaria_in": 3.0, 
+        "FID": 262, 
+        "Y": -0.21983, 
+        "X": 34.82832, 
+        "Data": "Kisumu County / Nyando Sub County / Kabonyo/Kanyagwai Ward / Greater Kadibo Medical"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.83467, 
+          -0.23999
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 343.0, 
+        "Confirme_2": 1319.0, 
+        "Confirme_1": 976.0, 
+        "Malaria_in": 0.0, 
+        "FID": 263, 
+        "Y": -0.23999, 
+        "X": 34.83467, 
+        "Data": "Kisumu County / Nyando Sub County / Kabonyo/Kanyagwai Ward / Kadhiambo Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.87913, 
+          -0.23767
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 451.0, 
+        "Confirme_2": 2781.0, 
+        "Confirme_1": 2303.0, 
+        "Malaria_in": 27.0, 
+        "FID": 264, 
+        "Y": -0.23767, 
+        "X": 34.87913, 
+        "Data": "Kisumu County / Nyando Sub County / Kabonyo/Kanyagwai Ward / Kanyagwal Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.84218, 
+          -0.19384
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 331.0, 
+        "Confirme_2": 1812.0, 
+        "Confirme_1": 1459.0, 
+        "Malaria_in": 22.0, 
+        "FID": 265, 
+        "Y": -0.19384, 
+        "X": 34.84218, 
+        "Data": "Kisumu County / Nyando Sub County / Kabonyo/Kanyagwai Ward / Koduol Reru Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.85049, 
+          -0.19034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 446.0, 
+        "Confirme_2": 2178.0, 
+        "Confirme_1": 1722.0, 
+        "Malaria_in": 10.0, 
+        "FID": 266, 
+        "Y": -0.19034, 
+        "X": 34.85049, 
+        "Data": "Kisumu County / Nyando Sub County / Kabonyo/Kanyagwai Ward / Komwaga Health Center"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -14.983169999999973, 
+          -0.19896
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 267, 
+        "Y": -0.19896, 
+        "X": 345.01683, 
+        "Data": "Kisumu County / Nyando Sub County / Kabonyo/Kanyagwai Ward / Melrose Arc hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.84802, 
+          -0.20669
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 952.0, 
+        "Confirme_2": 3832.0, 
+        "Confirme_1": 2880.0, 
+        "Malaria_in": 0.0, 
+        "FID": 268, 
+        "Y": -0.20669, 
+        "X": 34.84802, 
+        "Data": "Kisumu County / Nyando Sub County / Kabonyo/Kanyagwai Ward / Nyangande Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.86209, 
+          -0.20911
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 269, 
+        "Y": -0.20911, 
+        "X": 34.86209, 
+        "Data": "Kisumu County / Nyando Sub County / Kabonyo/Kanyagwai Ward / Philican Medical Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.85279, 
+          -0.23701
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 270, 
+        "Y": -0.23701, 
+        "X": 34.85279, 
+        "Data": "Kisumu County / Nyando Sub County / Kabonyo/Kanyagwai Ward / Ugwe Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.84852, 
+          -0.16994
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 318.0, 
+        "Confirme_2": 1730.0, 
+        "Confirme_1": 1412.0, 
+        "Malaria_in": 0.0, 
+        "FID": 271, 
+        "Y": -0.16994, 
+        "X": 34.84852, 
+        "Data": "Kisumu County / Nyando Sub County / Kobura Ward / Absalom Wangulu Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.89335, 
+          -0.18527
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 1079.0, 
+        "Confirme_2": 3181.0, 
+        "Confirme_1": 2089.0, 
+        "Malaria_in": 13.0, 
+        "FID": 272, 
+        "Y": -0.18527, 
+        "X": 34.89335, 
+        "Data": "Kisumu County / Nyando Sub County / Kobura Ward / Hongo Ogosa Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.87354, 
+          -0.14552
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 905.0, 
+        "Confirme_2": 3404.0, 
+        "Confirme_1": 2482.0, 
+        "Malaria_in": 17.0, 
+        "FID": 273, 
+        "Y": -0.14552, 
+        "X": 34.87354, 
+        "Data": "Kisumu County / Nyando Sub County / Kobura Ward / Kochieng Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.88121, 
+          -0.17115
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 274, 
+        "Y": -0.17115, 
+        "X": 34.88121, 
+        "Data": "Kisumu County / Nyando Sub County / Kobura Ward / Korowe Highway Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.88512, 
+          -0.16906
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 410.0, 
+        "Confirme_2": 1338.0, 
+        "Confirme_1": 927.0, 
+        "Malaria_in": 1.0, 
+        "FID": 275, 
+        "Y": -0.16906, 
+        "X": 34.88512, 
+        "Data": "Kisumu County / Nyando Sub County / Kobura Ward / Lela Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.79288, 
+          -0.16765
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 329.0, 
+        "Confirme_2": 1445.0, 
+        "Confirme_1": 996.0, 
+        "Malaria_in": 120.0, 
+        "FID": 276, 
+        "Y": -0.16765, 
+        "X": 34.79288, 
+        "Data": "Kisumu County / Nyando Sub County / Kobura Ward / Nyamware Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.86205, 
+          -0.14081
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 768.0, 
+        "Confirme_2": 2308.0, 
+        "Confirme_1": 1525.0, 
+        "Malaria_in": 15.0, 
+        "FID": 277, 
+        "Y": -0.14081, 
+        "X": 34.86205, 
+        "Data": "Kisumu County / Nyando Sub County / Kobura Ward / Okana Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.24862, 
+          -0.08941
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 278, 
+        "Y": -0.08941, 
+        "X": 34.24862, 
+        "Data": "Kisumu County / Nyando Sub County / Kobura Ward / Queenteric Annex Nursing Home"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.82976, 
+          -0.15299
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 356.0, 
+        "Confirme_2": 1463.0, 
+        "Confirme_1": 1061.0, 
+        "Malaria_in": 46.0, 
+        "FID": 279, 
+        "Y": -0.15299, 
+        "X": 34.82976, 
+        "Data": "Kisumu County / Nyando Sub County / Kobura Ward / Rabuor Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.01362, 
+          -0.2006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 11.0, 
+        "Confirme_2": 31.0, 
+        "Confirme_1": 20.0, 
+        "Malaria_in": 0.0, 
+        "FID": 280, 
+        "Y": -0.2006, 
+        "X": 35.01362, 
+        "Data": "Kisumu County / Nyando Sub County / Kobura Ward / Umbrella Health Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.93521, 
+          -0.36034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 380.0, 
+        "Confirme_2": 2328.0, 
+        "Confirme_1": 1925.0, 
+        "Malaria_in": 23.0, 
+        "FID": 281, 
+        "Y": -0.36034, 
+        "X": 34.93521, 
+        "Data": "Kisumu County / Seme Sub County / Central Seme Ward / Bodi Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.50407, 
+          -0.18247
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 263.0, 
+        "Confirme_2": 1582.0, 
+        "Confirme_1": 1314.0, 
+        "Malaria_in": 5.0, 
+        "FID": 282, 
+        "Y": -0.18247, 
+        "X": 34.50407, 
+        "Data": "Kisumu County / Seme Sub County / Central Seme Ward / Dago Jonyo Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.46942, 
+          -0.09418
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 882.0, 
+        "Confirme_2": 3780.0, 
+        "Confirme_1": 2869.0, 
+        "Malaria_in": 29.0, 
+        "FID": 283, 
+        "Y": -0.09418, 
+        "X": 34.46942, 
+        "Data": "Kisumu County / Seme Sub County / Central Seme Ward / Kolenyo Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.51829, 
+          -0.1028
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 796.0, 
+        "Confirme_2": 2276.0, 
+        "Confirme_1": 1403.0, 
+        "Malaria_in": 77.0, 
+        "FID": 284, 
+        "Y": -0.1028, 
+        "X": 34.51829, 
+        "Data": "Kisumu County / Seme Sub County / Central Seme Ward / Kombewa County Referral Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.53624, 
+          -0.14697
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 449.0, 
+        "Confirme_2": 2496.0, 
+        "Confirme_1": 2044.0, 
+        "Malaria_in": 3.0, 
+        "FID": 285, 
+        "Y": -0.14697, 
+        "X": 34.53624, 
+        "Data": "Kisumu County / Seme Sub County / Central Seme Ward / Lolwe Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.53035, 
+          -0.10666
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 44.0, 
+        "Confirme_2": 195.0, 
+        "Confirme_1": 151.0, 
+        "Malaria_in": 0.0, 
+        "FID": 286, 
+        "Y": -0.10666, 
+        "X": 34.53035, 
+        "Data": "Kisumu County / Seme Sub County / Central Seme Ward / Melkasons Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.51359, 
+          -0.10853
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 287, 
+        "Y": -0.10853, 
+        "X": 34.51359, 
+        "Data": "Kisumu County / Seme Sub County / Central Seme Ward / Palma Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.56393, 
+          -0.09989
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 0.0, 
+        "Confirme_2": 0.0, 
+        "Confirme_1": 0.0, 
+        "Malaria_in": 0.0, 
+        "FID": 288, 
+        "Y": -0.09989, 
+        "X": 34.56393, 
+        "Data": "Kisumu County / Seme Sub County / East Seme Ward / Holo Kadawa Community Clinic"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.56493, 
+          -0.08941
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 261.0, 
+        "Confirme_2": 1262.0, 
+        "Confirme_1": 944.0, 
+        "Malaria_in": 57.0, 
+        "FID": 289, 
+        "Y": -0.08941, 
+        "X": 34.56493, 
+        "Data": "Kisumu County / Seme Sub County / East Seme Ward / Kuoyo Kaila Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.576, 
+          -0.09801
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 506.0, 
+        "Confirme_2": 2123.0, 
+        "Confirme_1": 1598.0, 
+        "Malaria_in": 19.0, 
+        "FID": 290, 
+        "Y": -0.09801, 
+        "X": 34.576, 
+        "Data": "Kisumu County / Seme Sub County / East Seme Ward / Langi Kawino Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.55603, 
+          -0.12184
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 613.0, 
+        "Confirme_2": 1869.0, 
+        "Confirme_1": 1149.0, 
+        "Malaria_in": 107.0, 
+        "FID": 291, 
+        "Y": -0.12184, 
+        "X": 34.55603, 
+        "Data": "Kisumu County / Seme Sub County / East Seme Ward / Miranga Sub County Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.53951, 
+          -0.06985
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 949.0, 
+        "Confirme_2": 3349.0, 
+        "Confirme_1": 2363.0, 
+        "Malaria_in": 37.0, 
+        "FID": 292, 
+        "Y": -0.06985, 
+        "X": 34.53951, 
+        "Data": "Kisumu County / Seme Sub County / East Seme Ward / Onyinjo Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.55604, 
+          -0.12184
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 819.0, 
+        "Confirme_2": 3115.0, 
+        "Confirme_1": 2283.0, 
+        "Malaria_in": 13.0, 
+        "FID": 293, 
+        "Y": -0.12184, 
+        "X": 34.55604, 
+        "Data": "Kisumu County / Seme Sub County / East Seme Ward / Rodi Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.5128, 
+          -0.06877
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 325.0, 
+        "Confirme_2": 3341.0, 
+        "Confirme_1": 2999.0, 
+        "Malaria_in": 17.0, 
+        "FID": 294, 
+        "Y": -0.06877, 
+        "X": 34.5128, 
+        "Data": "Kisumu County / Seme Sub County / North Seme Ward / Bar Korwa Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          35.07296, 
+          -0.1593
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 470.0, 
+        "Confirme_2": 1610.0, 
+        "Confirme_1": 1127.0, 
+        "Malaria_in": 13.0, 
+        "FID": 295, 
+        "Y": -0.1593, 
+        "X": 35.07296, 
+        "Data": "Kisumu County / Seme Sub County / North Seme Ward / Bongu Konyango Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.49207, 
+          -0.04688
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 527.0, 
+        "Confirme_2": 2495.0, 
+        "Confirme_1": 1954.0, 
+        "Malaria_in": 14.0, 
+        "FID": 296, 
+        "Y": -0.04688, 
+        "X": 34.49207, 
+        "Data": "Kisumu County / Seme Sub County / North Seme Ward / Korwenje Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.46676, 
+          -0.06537
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 311.0, 
+        "Confirme_2": 2093.0, 
+        "Confirme_1": 1782.0, 
+        "Malaria_in": 0.0, 
+        "FID": 297, 
+        "Y": -0.06537, 
+        "X": 34.46676, 
+        "Data": "Kisumu County / Seme Sub County / North Seme Ward / Nduru Kadero Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.48915, 
+          -0.13651
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 634.0, 
+        "Confirme_2": 3953.0, 
+        "Confirme_1": 3290.0, 
+        "Malaria_in": 29.0, 
+        "FID": 298, 
+        "Y": -0.13651, 
+        "X": 34.48915, 
+        "Data": "Kisumu County / Seme Sub County / North Seme Ward / Oriang Kanyadwera Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.52008, 
+          -0.03537
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 278.0, 
+        "Confirme_2": 1490.0, 
+        "Confirme_1": 1109.0, 
+        "Malaria_in": 103.0, 
+        "FID": 299, 
+        "Y": -0.03537, 
+        "X": 34.52008, 
+        "Data": "Kisumu County / Seme Sub County / North Seme Ward / Otieno Owala Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.53969, 
+          -0.04524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 291.0, 
+        "Confirme_2": 1545.0, 
+        "Confirme_1": 1234.0, 
+        "Malaria_in": 20.0, 
+        "FID": 300, 
+        "Y": -0.04524, 
+        "X": 34.53969, 
+        "Data": "Kisumu County / Seme Sub County / North Seme Ward / Ratta Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.45305, 
+          -0.1154
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 142.0, 
+        "Confirme_2": 1499.0, 
+        "Confirme_1": 1321.0, 
+        "Malaria_in": 36.0, 
+        "FID": 301, 
+        "Y": -0.1154, 
+        "X": 34.45305, 
+        "Data": "Kisumu County / Seme Sub County / West Seme Ward / Alluc Medical Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.45309, 
+          -0.11431
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 624.0, 
+        "Confirme_2": 2774.0, 
+        "Confirme_1": 2149.0, 
+        "Malaria_in": 1.0, 
+        "FID": 302, 
+        "Y": -0.11431, 
+        "X": 34.45309, 
+        "Data": "Kisumu County / Seme Sub County / West Seme Ward / Arito Langi Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.45311, 
+          -0.11537
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 368.0, 
+        "Confirme_2": 1976.0, 
+        "Confirme_1": 1606.0, 
+        "Malaria_in": 2.0, 
+        "FID": 303, 
+        "Y": -0.11537, 
+        "X": 34.45311, 
+        "Data": "Kisumu County / Seme Sub County / West Seme Ward / Asat Beach Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.4531, 
+          -0.11528
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 573.0, 
+        "Confirme_2": 2556.0, 
+        "Confirme_1": 1962.0, 
+        "Malaria_in": 21.0, 
+        "FID": 304, 
+        "Y": -0.11528, 
+        "X": 34.4531, 
+        "Data": "Kisumu County / Seme Sub County / West Seme Ward / Manyuanda Sub county Hospital"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.5045, 
+          -0.11584
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 560.0, 
+        "Confirme_2": 2855.0, 
+        "Confirme_1": 2274.0, 
+        "Malaria_in": 21.0, 
+        "FID": 305, 
+        "Y": -0.11584, 
+        "X": 34.5045, 
+        "Data": "Kisumu County / Seme Sub County / West Seme Ward / Opapla Health Centre"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.48913, 
+          -0.13649
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 322.0, 
+        "Confirme_2": 1610.0, 
+        "Confirme_1": 1285.0, 
+        "Malaria_in": 3.0, 
+        "FID": 306, 
+        "Y": -0.13649, 
+        "X": 34.48913, 
+        "Data": "Kisumu County / Seme Sub County / West Seme Ward / Oriang' Alwala Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.44082, 
+          -0.13744
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 711.0, 
+        "Confirme_2": 2800.0, 
+        "Confirme_1": 2086.0, 
+        "Malaria_in": 3.0, 
+        "FID": 307, 
+        "Y": -0.13744, 
+        "X": 34.44082, 
+        "Data": "Kisumu County / Seme Sub County / West Seme Ward / Osewre Dispensary"
+      }
+    }
+    ,
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          34.45318, 
+          -0.10186
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Confirmed": 166.0, 
+        "Confirme_2": 935.0, 
+        "Confirme_1": 760.0, 
+        "Malaria_in": 9.0, 
+        "FID": 308, 
+        "Y": -0.10186, 
+        "X": 34.45318, 
+        "Data": "Kisumu County / Seme Sub County / West Seme Ward / Shalom Reru Medical Clinic"
+      }
+    }
+  ]
+}
