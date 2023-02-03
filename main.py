@@ -35,38 +35,39 @@ folium.TileLayer('cartodbdark_matter').add_to(m)
 folium.TileLayer('Stamen terrain').add_to(m)
 folium.LayerControl().add_to(m)
 
-# Add customized tooltips to the map
+# Add GeoJson with tooltips
 folium.features.GeoJson(
-                    data=ward_data,
-                    name='Total Confirmed Malaria Cases in Kisumu',
-                    smooth_factor=2,
-                    style_function=lambda x: {'color': 'black', 'fillColor': 'transparent', 'weight': 0.5
-                                              },
-                    tooltip=folium.features.GeoJsonTooltip(
-                        fields=['wardcode',
-                                'ward',
-                                'Total_co',
-                                'Confirme',
-                                'Confirm1'
-                                'Malaria_'],
-                        aliases=["Ward Code:",
-                                 "Ward Name:",
-                                 "Total Confirmed cases in all age groups:",
-                                 "Confirmed cases in children under age 5):",
-                                 "Confirmed cases greater under the age of 5:"
-                                 "Confirmed cases in pregnant women:"],
-                        localize=True,
-                        sticky=False,
-                        labels=True,
-                        style="""
-                            background-color: #F0EFEF;
-                            border: 2px solid black;
-                            border-radius: 3px;
-                            box-shadow: 3px;
-                        """,
-                        max_width=800,),
-                    highlight_function=lambda x: {'weight': 3, 'fillColor': 'grey'},
-                        ).add_to(m)
+    data=ward_data,
+    name='Total Confirmed Malaria Cases in Kisumu',
+    smooth_factor=2,
+    style_function=lambda x: {'color': 'black', 'fillColor': 'transparent', 'weight': 0.5
+                              },
+    tooltip=folium.features.GeoJsonTooltip(
+        fields=['wardcode',
+                'ward',
+                'Total_co',
+                'Confirme',
+                'Confirm1'
+                'Malaria_'],
+        aliases=["Ward Code:",
+                 "Ward Name:",
+                 "Total Confirmed cases in all age groups:",
+                 "Confirmed cases in children under age 5):",
+                 "Confirmed cases greater under the age of 5:"
+                 "Confirmed cases in pregnant women:"],
+        localize=True,
+        sticky=False,
+        labels=True,
+        style="""
+            background-color: #F0EFEF;
+            border: 2px solid black;
+            border-radius: 3px;
+            box-shadow: 3px;
+        """,
+        max_width=800,),
+    highlight_function=lambda x: {'weight': 3, 'fillColor': 'grey'},
+    ).add_to(m)
+
 # Add marker
 # Run: help(folium.Icon) for more info about icons
 
